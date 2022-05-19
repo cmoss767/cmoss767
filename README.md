@@ -1,3 +1,7 @@
+
+<img align="center" src="https://github.com/cmoss767/cmoss767/blob/main/header.png" width="850" />
+
+
 <h1 align="center">Hi 👋, I'm Chris Moss</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
