@@ -1,5 +1,4 @@
-
-<img align="center" src="https://github.com/cmoss767/cmoss767/blob/main/header.png" width="850" />
+<img src="https://github.com/cmoss767/cmoss767/blob/main/header.png" width="100%">
 
 
 <h1 align="center">Technologies</h1>
