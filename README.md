@@ -26,68 +26,6 @@
     </td>
       
       
-        <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Project 2</h3>
-        <br />
-        <a target="_blank" href="">
-            <img src="" width="100%" alt=""/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="" target="_blank">
-    <img src=""/>
-  </a>  
-  <a href="" target="_blank">
-    <img src=""/>
-  </a>
-      </p>
-        <p><strong>tools used</strong> - App description</p>
-    </td>
-            
-            
-     <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Project 3</h3>
-        <br />
-        <a target="_blank" href="">
-            <img src="" width="100%" alt=""/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="" target="_blank">
-    <img src=""/>
-  </a>  
-  <a href="" target="_blank">
-    <img src=""/>
-  </a>
-      </p>
-        <p><strong>tools used</strong> - App description</p>
-    </td>
-         
-         
-     <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Project 4</h3>
-        <br />
-        <a target="_blank" href="">
-            <img src="" width="100%" alt=""/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="" target="_blank">
-    <img src=""/>
-  </a>  
-  <a href="" target="_blank">
-    <img src=""/>
-  </a>
-      </p>
-        <p><strong>tools used</strong> - App description</p>
-    </td>
-      
       
  
 </table>
