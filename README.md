@@ -6,7 +6,7 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+    <td width=50% valign="top">
       <h3 align="center"> Pokédex</h3>
         <br />
         <a target="_blank" href="">
