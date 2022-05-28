@@ -7,7 +7,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center"> Pokédex</h3>
         <br />
         <a target="_blank" href="">
             <img src="" width="100%" alt=""/>
