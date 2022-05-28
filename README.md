@@ -24,10 +24,10 @@
         <p><strong>HTML, CSS, Javascript</strong> - Look up stats about any Pokemon!</p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center">Pokédex</h3>
+      <h3 align="center">Project 2</h3>
         <br />
         <a target="_blank" href="">
-            <img src="pokedex.png" width="100%" alt="pokedex"/>
+            <img src="" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
@@ -39,7 +39,45 @@
     <img src=""/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - Look up stats about any Pokemon!</p>
+        <p><strong></strong> - </p>
+    </td>
+    </tr>
+     <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project 3</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src=""/>
+  </a>  
+  <a href="" target="_blank">
+    <img src=""/>
+  </a>
+      </p>
+        <p><strong></strong> - </p>
+    </td>
+        <td width="50%" valign="top">
+      <h3 align="center">Project 4</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="" width="100%" alt="pokedex"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src=""/>
+  </a>  
+  <a href="" target="_blank">
+    <img src=""/>
+  </a>
+      </p>
+        <p><strong></strong> - </p>
     </td>
     </tr>
 </table>
