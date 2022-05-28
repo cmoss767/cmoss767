@@ -24,6 +24,36 @@
       </p>
         <p><strong>HTML, CSS, Javascript</strong> - Look up stats about any Pokemon!</p>
     </td>
+    
+    <td width="50%" valign="top">
+      <h3 align="center"> Pokédex</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="pokedex.png" width="50%" alt="pokedex"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src=""/>
+  </a>  
+  <a href="" target="_blank">
+    <img src=""/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Javascript</strong> - Look up stats about any Pokemon!</p>
+    </td>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     </tr>
     
     
