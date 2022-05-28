@@ -10,7 +10,7 @@
       <h3 align="center"> Pokédex</h3>
         <br />
         <a target="_blank" href="">
-            <img src="pokedex.png" width="100%" alt="pokedex"/>
+            <img src="pokedex.png" width="50%" alt="pokedex"/>
         </a>
         <br />
         <p align="center">
