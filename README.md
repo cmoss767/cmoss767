@@ -4,6 +4,7 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+    <tr>
     <td width="50%" valign="top">
       <h3 align="center">Pokédex</h3>
         <br />
@@ -22,6 +23,7 @@
       </p>
         <p><strong>HTML, CSS, Javascript</strong> - Look up stats about any Pokemon!</p>
     </td>
+    </tr>
 </table>
 
 
