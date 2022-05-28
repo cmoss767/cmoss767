@@ -65,7 +65,7 @@
       <h3 align="center">Project 4</h3>
         <br />
         <a target="_blank" href="">
-            <img src="" width="100%" alt="pokedex"/>
+            <img src="" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
