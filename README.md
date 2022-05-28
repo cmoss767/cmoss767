@@ -10,7 +10,7 @@
       <h3 align="center"> Pokédex</h3>
         <br />
         <a target="_blank" href="">
-            <img src="" width="100%" alt=""/>
+            <img src="pokedex.png" width="100%" alt="pokedex"/>
         </a>
         <br />
         <p align="center">
@@ -22,7 +22,7 @@
     <img src=""/>
   </a>
       </p>
-        <p><strong>tools used</strong> - App description</p>
+        <p><strong>HTML, CSS, Javascript</strong> - Look up stats about any Pokemon!</p>
     </td>
     
     
