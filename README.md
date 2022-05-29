@@ -24,7 +24,7 @@
         <p><strong>HTML, CSS, Javascript</strong> - Look up stats about any Pokemon!</p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center"></h3>
         <br />
         <a target="_blank" href="">
             <img src="" width="100%" alt=""/>
@@ -44,7 +44,7 @@
     </tr>
      <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project 3</h3>
+      <h3 align="center"></h3>
         <br />
         <a target="_blank" href="">
             <img src="" width="100%" alt=""/>
@@ -62,7 +62,7 @@
         <p><strong></strong> - </p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center">Project 4</h3>
+      <h3 align="center"></h3>
         <br />
         <a target="_blank" href="">
             <img src="" width="100%" alt=""/>
