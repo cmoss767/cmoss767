@@ -21,7 +21,7 @@
     <img src=""/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - Look up stats about any Pokemon!</p>
+        <p><strong>HTML5, CSS3, Javascript </strong> - Look up stats about any Pokemon!</p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">ChrisMoss.com</h3>
@@ -39,7 +39,7 @@
     <img src=""/>
   </a>
       </p>
-        <p><strong></strong> - </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> -Find projects and ways to get in touch with me. </p>
     </td>
     </tr>
      <tr>
