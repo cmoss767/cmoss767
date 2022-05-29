@@ -24,10 +24,10 @@
         <p><strong>HTML, CSS, Javascript</strong> - Look up stats about any Pokemon!</p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">ChrisMoss.com</h3>
         <br />
         <a target="_blank" href="">
-            <img src="" width="100%" alt=""/>
+            <img src="portfolio.png" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
