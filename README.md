@@ -62,10 +62,10 @@
         <p><strong></strong> - </p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">NASA Photo of the Day</h3>
         <br />
         <a target="_blank" href="">
-            <img src="" width="100%" alt=""/>
+            <img src="nasa-api.png" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
@@ -77,7 +77,7 @@
     <img src=""/>
   </a>
       </p>
-        <p><strong></strong> - </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> -Choose a date to view the NASA photo of the day and a description sourced from the NASA API portal </p>
     </td>
     </tr>
 </table>
