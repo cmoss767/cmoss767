@@ -15,10 +15,8 @@
         <p align="center">
           
   <a href="" target="_blank">
-    <img src=""/>
   </a>  
   <a href="" target="_blank">
-    <img src=""/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, Javascript </strong> - Look up stats about any Pokemon!</p>
@@ -33,10 +31,8 @@
         <p align="center">
           
   <a href="" target="_blank">
-    <img src=""/>
   </a>  
   <a href="" target="_blank">
-    <img src=""/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> -Find projects and ways to get in touch with me. </p>
@@ -53,10 +49,8 @@
         <p align="center">
           
   <a href="" target="_blank">
-    <img src=""/>
   </a>  
   <a href="" target="_blank">
-    <img src=""/>
   </a>
       </p>
         <p><strong></strong> - </p>
@@ -71,10 +65,8 @@
         <p align="center">
           
   <a href="" target="_blank">
-    <img src=""/>
   </a>  
   <a href="" target="_blank">
-    <img src=""/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> -Choose a date to view the NASA photo of the day and a description sourced from the NASA API portal </p>
