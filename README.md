@@ -53,7 +53,7 @@
   <a href="" target="_blank">
   </a>
       </p>
-        <p><strong></strong> - </p>
+        <p><strong></strong>  </p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">NASA Photo of the Day</h3>
