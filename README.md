@@ -1,5 +1,7 @@
 <img src="https://github.com/cmoss767/cmoss767/blob/main/header.png" width="100%">
 
+<h1 align="center">About Me</h1>
+<p align="center">I am a passionate problem solver and I’m constantly thinking about ways that I can learn and improve my code. I can be cooking, hiking, or playing tennis and I will think of a new project idea or solution to a coding problem. I’m determined to find answers, solve problems, and build projects. </p>
 
 
 <h1 align="center">Projects</h1>
