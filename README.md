@@ -73,10 +73,10 @@
         <p><strong>HTML5, CSS3, Javascript & React</strong> -Play the classic game of tik-tak-toe with a friend! </p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center">NASA Photo of the Day</h3>
+      <h3 align="center">CatGram</h3>
         <br />
         <a target="_blank" href="">
-            <img src="nasa-api.png" width="100%" alt=""/>
+            <img src="catGram.png" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
@@ -86,7 +86,7 @@
   <a href="" target="_blank">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> -Choose a date to view the NASA photo of the day and a description sourced from the NASA API portal </p>
+        <p><strong>Javascript, MongoDB, Node.js, & Express.js</strong> -A place to interact with other cat oweners! Like and comment on users' posts and upload your own cat(s) as well! </p>
     </td>
     </tr>
 </table>
