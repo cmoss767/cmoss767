@@ -40,10 +40,10 @@
     </tr>
      <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Tik-Tac-Toe</h3>
+      <h3 align="center">Tic-Tac-Toe</h3>
         <br />
         <a target="_blank" href="">
-            <img src="ticTacToe.png" width="100%" alt="Tik-Tak-Toe"/>
+            <img src="ticTakToe.png" width="100%" alt="Tic-Tac-Toe"/>
         </a>
         <br />
         <p align="center">
