@@ -43,7 +43,7 @@
       <h3 align="center">Tik-Tac-Toe</h3>
         <br />
         <a target="_blank" href="">
-            <img src="tikTacToe.png" width="100%" alt="Tik-Tak-Toe"/>
+            <img src="ticTacToe.png" width="100%" alt="Tik-Tak-Toe"/>
         </a>
         <br />
         <p align="center">
@@ -53,7 +53,7 @@
   <a href="" target="_blank">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & React</strong> Play the classic game of tik-tak-toe with a friend! </p>
+        <p><strong>HTML5, CSS3, Javascript & React</strong> -Play the classic game of tik-tak-toe with a friend! </p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">NASA Photo of the Day</h3>
