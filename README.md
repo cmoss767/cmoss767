@@ -2,6 +2,22 @@
 
 <h1 align="center">About Me</h1>
 <p>I am a passionate problem solver and I’m constantly thinking about ways that I can learn and improve my code. I can be cooking, hiking, or playing tennis and I will think of a new project idea or solution to a coding problem. I’m determined to find answers, solve problems, and build projects. </p>
+<br />
+<p> Feel free to reach out and connect!</p>
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
 
 <h1 align="center">Projects</h1>
@@ -100,36 +116,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<h1 align="center">Connect</h1>
-
-
-
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
 
 
 
