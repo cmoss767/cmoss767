@@ -3,7 +3,9 @@
 <h1 align="center">About Me</h1>
 <p>I am a passionate problem solver and I’m constantly thinking about ways that I can learn and improve my code. I can be cooking, hiking, or playing tennis and I will think of a new project idea or solution to a coding problem. I’m determined to find answers, solve problems, and build projects. </p>
 <br />
-<p> Feel free to reach out and connect!</p>
+<p align="center"> Feel free to reach out and connect!</p>
+<br />
+<br />
 <p align="center">
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
