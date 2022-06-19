@@ -86,7 +86,7 @@
   <a href="" target="_blank">
   </a>
       </p>
-        <p><strong>Javascript, MongoDB, Node.js, & Express.js</strong> -A place to interact with other cat oweners. Like and comment on users' posts and upload your own cat(s) as well! </p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> -A place to interact with other cat oweners. Like and comment on users' posts and upload your own cat(s) as well! </p>
     </td>
     </tr>
 </table>
