@@ -60,7 +60,7 @@
       <h3 align="center">Tic-Tac-Toe</h3>
         <br />
         <a target="_blank" href="">
-            <img src="ticTakToe.png" width="100%" alt="Tic-Tac-Toe"/>
+            <img src="tic-tac-toe.png" width="100%" alt="Tic-Tac-Toe"/>
         </a>
         <br />
         <p align="center">
