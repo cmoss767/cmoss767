@@ -5,13 +5,13 @@
 <br />
 <p align="center"> Feel free to reach out and connect!</p>
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://chrismosscoding.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/chris-moss-76a2881a5/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://twitter.com/cmoss767" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="" target="_blank">
@@ -70,7 +70,7 @@
   <a href="" target="_blank">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & React</strong> -Play the classic game of tik-tak-toe with a friend! </p>
+        <p><strong>HTML5, CSS3, Javascript & React</strong> -Play the classic game of tic-tac-toe with a friend! </p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">CatGram</h3>
