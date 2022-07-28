@@ -70,7 +70,7 @@
   <a href="" target="_blank">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & React</strong> -Play the game of tic-tac-toe with a friend! </p>
+        <p><strong>HTML5, CSS3, Javascript & React</strong> -Play the classic game of tic-tac-toe with a friend! </p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">CatGram</h3>
