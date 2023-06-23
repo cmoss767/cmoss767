@@ -5,7 +5,7 @@
 <br />
 <p align="center"> Feel free to reach out and connect!</p>
 <p align="center">
-  <a href="https://chrismosscoding.netlify.app/" target="_blank">
+  <a href="https://cmoss767.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/chris-moss-76a2881a5/" target="_blank">
